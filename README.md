@@ -15,5 +15,5 @@ get_twitter_stream.py 内に記載してある
 - API_KEY
 - API_SECRET
 - ACCESS_TOKEN
-- ACCESS_SECRET
+- ACCESS_SECRET  
 は、それぞれ取得して書き換えること
