@@ -17,4 +17,4 @@ get_twitter_stream.py 内に記載してある
 - ACCESS_TOKEN
 - ACCESS_SECRET  
 
-は、それぞれ取得して書き換えること
+は、Twitterから取得して書き換えないと動作しない
