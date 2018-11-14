@@ -1,7 +1,7 @@
 # GetTwitterStream
 
 ## 概要
-TwitterStreamingAPIを呼び出して、Tweetを取得する
+TwitterStreamingAPIを呼び出して、Tweetを取得する  
 以前、Rubyで作成していたものをPythonで書き直したもの
 
 ## Usage
